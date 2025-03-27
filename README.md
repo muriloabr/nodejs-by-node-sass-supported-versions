@@ -1,7 +1,6 @@
 # Node.js por versões de node-sass
 
 As versões suportadas de node-sass variam conforme as versões de Node.js.
-Lembre-se que node-sass foi descontinuado em julho de 2024.
 
 Versão do Node.js |Versão do node-sass |Versão do Node Module
 
@@ -32,6 +31,7 @@ Node 8 | 4.5.3+, <5.0 | 57
 Node <8 | <5.0 | <57
 
 ## Útil para atualização e reestruturação de soluções que utilizam este pacote node-sass
+Lembre-se que node-sass foi descontinuado em julho de 2024
 
 ### Substituição atual para este pacote:
 npm install --save-dev sass
