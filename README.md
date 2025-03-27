@@ -33,5 +33,5 @@ Node <8 | <5.0 | <57
 
 ## Útil para atualização e reestruturação de soluções que utilizam este pacote node-sass
 
-## Substituição atual para este pacote
+### Substituição atual para este pacote:
 npm install --save-dev sass
