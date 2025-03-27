@@ -1,4 +1,4 @@
-# Nodes por versões de node-sass
+# NodeJS por versões de node-sass
 
 As versões suportadas de node-sass variam conforme as versões de Node.js.
 Lembre-se que node-sass foi descontinuado em julho de 2024.
